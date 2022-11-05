@@ -1,4 +1,4 @@
-## [Role-playing game](https://frontendella.github.io/BoredBot-API/)
+## [BoredBot](https://frontendella.github.io/BoredBot-API/)
 
 
 
